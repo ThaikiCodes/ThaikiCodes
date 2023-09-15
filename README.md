@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thai</h1>
 <h3 align="center">A radically open-minded individual 📚 </h3>
 
-- 🔭 I’m currently working on **judgeabook**
+- 🔭 I’m currently working on **judgeabook 🤳**
 - ⚡ Fun fact **I drink tea with two different tea-bags 🍵**
 
 <h3 align="left">Connect with me:</h3>
